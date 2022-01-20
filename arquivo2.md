@@ -1,2 +1,1 @@
-# Este e um exemplo de arquivo novo criado para o projeto.
-# alterado ****
+# Este e um exemplo de arquivo novo criado para o projeto #
